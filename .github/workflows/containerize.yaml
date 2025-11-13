@@ -1,6 +1,6 @@
 name: containerize-webgl
 on:
-  push: { branches: [main] }
+  push: { branches: [master] }
   workflow_dispatch:
 
 permissions:
